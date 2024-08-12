@@ -12,7 +12,7 @@ public class Main
         linkedList.add(20);
         linkedList.printList();
 
-        linkedList.remove(20);
+        linkedList.remove(10);
         linkedList.printList();
 
         System.out.println(linkedList.contains(5));
